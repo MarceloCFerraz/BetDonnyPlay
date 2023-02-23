@@ -10,17 +10,17 @@ This project uses Python 3.11.2
 
 ### Pip
 
-Make sure to install pip after installing python with the command `sh python -m ensurepip --upgrade `
+Make sure to install pip after installing python with the command `python -m ensurepip --upgrade `
 
 ### Virtualenv
 
-Install Virtualenv with `sh pip install virtualenv `
+Install Virtualenv with `pip install virtualenv `
 
-After finishing the installation, open a cmd on the project's root folder and run `sh virtualenv venv `
+After finishing the installation, open a cmd on the project's root folder and run `virtualenv venv `
 
-Activate the recently created virtualenv `sh venv/Scripts/activate `
+Activate the recently created virtualenv `venv/Scripts/activate `
 
-Now install the dependencies with `sh pip install -r requirements.txt `
+Now install the dependencies with `pip install -r requirements.txt `
 
 ### Tesseract
 
